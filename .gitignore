@@ -1,0 +1,11 @@
+#########################################################################
+#	Création du fichier gitignore par Thibault MILLANT		#
+#########################################################################
+
+# Exclusion des fichiers de sauvegarde
+*~
+
+# Exclusion des images
+*.jpg
+*.jpeg
+*.png
